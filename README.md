@@ -1,11 +1,11 @@
-**Svija** is a radical new way to build websites, using the power of **Adobe Illustrator** to generate precision SVG pages.
+**Pwika** is a radical new way to build websites, using the power of **Adobe Illustrator** to generate precision SVG pages.
 
-With Svija, building a website is **incredibly fast**, and you can create amazing content that would be impossible with other tools.
+With Pwika, building a website is **incredibly fast**, and you can create amazing content that would be impossible with other tools.
 
 **"I really, really, really, really, really, really, really, really LOVE THIS. Thank you for making this!"**  
 *—A Space Cowboi*
 
-You'll love **Svija** too:
+You'll love **Pwika** too:
 
 - if you know Illustrator, you're already an expert
 - build websites in 80-90% less time
@@ -13,7 +13,7 @@ You'll love **Svija** too:
 - no debugging or verification necessary
 - compelling animation with no programming
 
-Svija sites are **real websites**:
+Pwika sites are **real websites**:
 
 - Google-indexable
 - accessible
