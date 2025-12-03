@@ -1,3 +1,12 @@
+
+<!-- vim: set foldmethod=marker fmr=###,--- :-->
+
+*Updated 03 October 2025 · Toulouse*
+
+![Pwika: SVG-based websites built in Adobe Illustrator][logo]
+
+[logo]: http://files.svija.com/github/readme-logo.png?1 "Svija: SVG-based websites built in Adobe Illustrator"
+
 **Pwika** is a radical new way to build websites, using the power of **Adobe Illustrator** to generate precision SVG pages.
 
 With Pwika, building a website is **incredibly fast**, and you can create amazing content that would be impossible with other tools.
