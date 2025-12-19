@@ -54,22 +54,22 @@ This repo contains everything you need to build Pwika from scratch.
 
 In order of use:
 
-1. [server-config](https://github.com/pwikapanel/server-config/settings): to configure a new Debian server  
-   [server-update](https://github.com/pwikapanel/server-update/settings): to update a Pwika server to a newer version
-2. [sites](https://github.com/pwikapanel/sites/settings): default sites for a new installation
-3. [cloud](https://github.com/pwikapanel/cloud/settings): the Pwika server application, including Pwika Cloud
-4. [animation](https://github.com/pwikapanel/animation/settings): the javascript animation component of Pwika Cloud
-5. [site-admin](https://github.com/pwikapanel/site-admin/settings): to install/delete/modify Pwika sites
+1. [server-config](https://github.com/pwikapanel/server-config): to configure a new Debian server  
+   [server-update](https://github.com/pwikapanel/server-update): to update a Pwika server to a newer version
+2. [sites](https://github.com/pwikapanel/sites): default sites for a new installation
+3. [cloud](https://github.com/pwikapanel/cloud): the Pwika server application, including Pwika Cloud
+4. [animation](https://github.com/pwikapanel/animation): the javascript animation component of Pwika Cloud
+5. [site-admin](https://github.com/pwikapanel/site-admin): to install/delete/modify Pwika sites
 
 ---
 ### The Sync Application
 
 Pwika Sync is a macOS-only application that acts as a hub for your Pwika project.
 
-[sync](https://github.com/pwikapanel/sync/settings)
+[sync](https://github.com/pwikapanel/sync)
 
 ---
 ### Extras
 
-- [Illustrator Templates](https://github.com/pwikapanel/templates-cool-extras/settings)
-- [Illustrator Scripts](https://github.com/pwikapanel/scripts-presets/settings)
+- [Illustrator Templates](https://github.com/pwikapanel/templates-cool-extras)
+- [Illustrator Scripts](https://github.com/pwikapanel/scripts-presets)
