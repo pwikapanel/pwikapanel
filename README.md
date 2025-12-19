@@ -7,7 +7,7 @@
 
 *We're still cleaning up and organizing our repos — if you need help or want to contribute, contact us at hey@pwika.co with an m at the end.*
 
-[logo]: http://files.pwika.com/github/github-banner.png "Pwika: SVG-based websites built in Adobe Illustrator"
+[logo]: https://files.pwika.com/github/github_banner.png "Pwika: SVG-based websites built in Adobe Illustrator"
 
 **Pwika** is a radical new way to build websites, using the power of **Adobe Illustrator** to generate precision SVG pages.
 
