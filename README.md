@@ -1,7 +1,7 @@
 
 <!-- vim: set foldmethod=marker fmr=###,--- :-->
 
-*Updated 03 October 2025 · Toulouse*
+*Updated 19 December 2025 · Toulouse*
 
 ![Pwika: SVG-based websites built in Adobe Illustrator][logo]
 
@@ -31,3 +31,43 @@ Pwika sites are **real websites**:
 
 **"The workflow behind this is super innovative — from your SVG program directly to the web… for a new idea, damn!"**  
 *—Geena T.*
+
+---
+### The structure of Pwika
+
+There are basically three elements to Pwika:
+1. the Illustrator panel that saves SVG files
+2. the server application that displays the SVG files as a website
+3. a sync application that uploads the SVG files to the server (macOS only)
+
+---
+### 1. The Illustrator Panel
+
+[illustrator-panel repository](https://github.com/pwikapanel/illustrator-panel)
+
+This repo contains everything you need to build Pwika from scratch.
+
+---
+### The Server Application
+
+In order of use:
+
+1. [server-config](https://github.com/pwikapanel/server-config/settings): to configure a new Debian server  
+   [server-update](https://github.com/pwikapanel/server-update/settings): to update a Pwika server to a newer version
+2. [sites](https://github.com/pwikapanel/sites/settings): default sites for a new installation
+3. [cloud](https://github.com/pwikapanel/cloud/settings): the Pwika server application, including Pwika Cloud
+4. [animation](https://github.com/pwikapanel/animation/settings): the javascript animation component of Pwika Cloud
+5. [site-admin](https://github.com/pwikapanel/site-admin/settings): to install/delete/modify Pwika sites
+
+---
+### The Sync Application
+
+Pwika Sync is a macOS-only application that acts as a hub for your Pwika project.
+
+[sync](https://github.com/pwikapanel/sync/settings)
+
+---
+### Extras
+
+- [Illustrator Templates](https://github.com/pwikapanel/templates-cool-extras/settings)
+- [Illustrator Scripts](https://github.com/pwikapanel/scripts-presets/settings)
